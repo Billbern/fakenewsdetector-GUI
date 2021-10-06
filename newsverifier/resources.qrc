@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="verify.svg">resources/verify.svg</file>
+    <file alias="undo.svg">resources/undo.svg</file>
+    <file alias="redo.svg">resources/redo.svg</file>
+</qresource>
+</RCC>
